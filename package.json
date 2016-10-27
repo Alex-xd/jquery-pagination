@@ -1,0 +1,25 @@
+{
+  "name": "jquery-pagination",
+  "version": "1.0.0",
+  "description": "A light and very easy use jq-plugin for pagination.",
+  "main": "jquery.pagination.js",
+  "scripts": {
+    "test": "open DEMO.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-xd/jquery-pagination.git"
+  },
+  "keywords": [
+    "pagination",
+    "pager",
+    "jquery",
+    "plugin"
+  ],
+  "author": "Alexxd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex-xd/jquery-pagination/issues"
+  },
+  "homepage": "https://github.com/Alex-xd/jquery-pagination#readme"
+}

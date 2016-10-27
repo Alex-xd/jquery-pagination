@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DEMO</title>
+    <script src="jquery.min.js"></script>
+    <script src="jquery.pagination.js"></script>
+</head>
+
+<body>
+    <div id="pager"></div>
+    <script>
+    $('#pager').paginate({
+        pageIndex: 0, //初始页（0为第一页）
+        totlePageCount: 16, //总页数
+        maxBtnCount: 5 //按钮显示个数
+    });
+    </script>
+</body>
+
+</html>
