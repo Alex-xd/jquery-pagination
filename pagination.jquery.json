@@ -1,0 +1,35 @@
+{
+    "name": "pagination",
+    "title": "jQuery Pagination",
+    "description": "A light 、highly customizability and very easy use jquery plugin for pagination ^ ^",
+    "keywords": [
+        "pagination",
+        "pager",
+        "paginate"
+    ],
+    "version": "1.1.0",
+    "author": {
+        "name": "Alexxd",
+        "url": "www.boyuanblog.com"
+    },
+    "maintainers": [
+        {
+            "name": "Alexxd",
+            "email": "531237512@qq.com",
+            "url": "https://github.com/Alex-xd/jquery-pagination"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/Alex-xd/jquery-pagination/blob/master/LISENCE"
+        }
+    ],
+    "bugs": "https://github.com/Alex-xd/jquery-pagination/issues",
+    "homepage": "https://github.com/Alex-xd/jquery-pagination/",
+    "docs": "https://github.com/Alex-xd/jquery-pagination/blob/master/README.md",
+    "download": "https://github.com/Alex-xd/jquery-pagination/archive/master.zip",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
