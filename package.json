@@ -1,7 +1,7 @@
 {
   "name": "jquery-pagination",
-  "version": "1.0.0",
-  "description": "A light and very easy use jq-plugin for pagination.",
+  "version": "1.1.0",
+  "description": "A light 、highly customizability and very easy use jquery plugin for pagination ^ ^",
   "main": "jquery.pagination.js",
   "scripts": {
     "test": "open DEMO.html"

@@ -11,10 +11,11 @@
 <body>
     <div id="pager"></div>
     <script>
-    $('#pager').paginate({
-        pageIndex: 0, //初始页（0为第一页）
+    var pager = $('#pager').paginate({
+        pageIndex: 0, //当前页数
         totlePageCount: 16, //总页数
-        maxBtnCount: 5 //按钮显示个数
+        maxBtnCount: 7, //按钮数量最多有
+        styleURL: './defaultStyles/style1.css' //样式路径 默认无样式
     });
     </script>
 </body>
