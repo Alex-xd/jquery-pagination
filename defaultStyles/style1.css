@@ -19,11 +19,11 @@
     width: 20px;
 }
 
-.pager-btn.on {
+.pager-numbtn .on {
     background-color: #d7d7d7;
 }
 
-.pager-turn {
+.pager-turnbtn {
     width: auto;
     padding: 3px 10px;
 }
