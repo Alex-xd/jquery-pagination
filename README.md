@@ -1,13 +1,12 @@
 ## jquery.pagination.js
 
-[![npm](https://www.npmjs.com/package/jquery-pagination)
 [![lisence](https://img.shields.io/badge/LISENCE-MIT-green.svg)](https://github.com/Alex-xd/jquery-pagination)
 
 > A light 、highly customizability and very easy use jquery plugin for pagination ^ ^
 
 ![preview](http://o6x2vif88.bkt.clouddn.com/Screen%20Shot%202016-10-29%20at%2001.04.52.png)
 
-史上易用性最强的分页插件，压缩后仅为4kb
+压缩后仅为4kb
 
 - 多条件动态分页实例
 - 提供多种API接口以供扩展功能
