@@ -1,7 +1,7 @@
 ## jquery.pagination.js
 
-[![npm](https://img.shields.io/badge/npm-1.1.0-blue.svg)](https://www.npmjs.com/package/upload-preview)
-[![lisence](https://img.shields.io/badge/LISENCE-MIT-green.svg)](https://github.com/Alex-xd/preview-upload)
+[![npm](https://www.npmjs.com/package/jquery-pagination)
+[![lisence](https://img.shields.io/badge/LISENCE-MIT-green.svg)](https://github.com/Alex-xd/jquery-pagination)
 
 > A light 、highly customizability and very easy use jquery plugin for pagination ^ ^
 
