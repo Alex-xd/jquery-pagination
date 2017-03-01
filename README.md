@@ -44,8 +44,6 @@ var pager = $('#pager').paginate({
 
 `npm install jquery-pagination` 
 
-then use `npm test` if u want.
-
 ## You want More
 
 #### 可选配置和API
